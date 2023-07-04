@@ -1,0 +1,2 @@
+Öncelikle Google Chrome son sürümü kurulu olması gerekmektedir, Python 3.11 sürümü kurulu olması gerekmektedir.
+Daha sonra bot dosyalarının olduğu yerde cmd yi açıp requirements.txt içerisindeki her satırı pip install .... şeklinde yazmalısınız. Daha sonra cmd ye "python.exe iframgrapper.py" yazdığınızda bot çalışıyor olması lazım.
